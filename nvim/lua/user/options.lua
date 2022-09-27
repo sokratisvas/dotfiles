@@ -12,4 +12,4 @@ set.scrolloff = 10
 
 set.autoindent = true
 set.fileencoding = 'utf-8'
-set.termguicolors = true
+-- set.termguicolors = true

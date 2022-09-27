@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/sokratis/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
     url = "https://github.com/ellisonleao/gruvbox.nvim"
   },
+  ["nvim-treesitter"] = {
+    loaded = true,
+    path = "/home/sokratis/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+    url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/sokratis/.local/share/nvim/site/pack/packer/start/packer.nvim",
