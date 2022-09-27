@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/sokratis/programming'
+let g:netrw_dirhist_6='/home/sokratis/programming/vm-translator'
+let g:netrw_dirhist_5='/home/sokratis/programming/vm-translator/src'
+let g:netrw_dirhist_4='/home/sokratis/programming/vm-translator/target/debug'
+let g:netrw_dirhist_3='/home/sokratis/programming/vm-translator/target'
+let g:netrw_dirhist_2='/home/sokratis/programming/vm-translator'
+let g:netrw_dirhist_1='/home/sokratis/programming/vm-translator/src'
