@@ -1,5 +1,6 @@
 return require 'packer'.startup(function()
     use 'wbthomason/packer.nvim'
+    
     use { "ellisonleao/gruvbox.nvim" }
 
     use {
@@ -12,4 +13,8 @@ return require 'packer'.startup(function()
         'kyazdani42/nvim-web-devicons', -- optional, for file icons
         tag = 'nightly' -- optional, updated every week. (see issue #1193)
     }
+
+    use 'nvim-telescope/telescope.nvim'
+    use 'nvim-lua/plenary.nvim'
+
 end)
