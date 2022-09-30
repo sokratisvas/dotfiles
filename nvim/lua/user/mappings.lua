@@ -26,3 +26,9 @@ vim.cmd([[
 nnoremap <leader>ff <cmd>Telescope find_files<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 ]])
+
+-- With lua:
+-- vim.api.nvim_set_keymap("n", "<leader>ff", '<cmd>Telescope find_files<cr>', opts)
+-- vim.api.nvim_set_keymap("n", "<leader>fg", '<cmd>Telescope live_grep<cr>', opts)
+
+
