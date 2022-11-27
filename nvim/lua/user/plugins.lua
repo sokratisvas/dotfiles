@@ -16,5 +16,6 @@ return require 'packer'.startup(function()
 
     use 'nvim-telescope/telescope.nvim'
     use 'nvim-lua/plenary.nvim'
+    use 'neovim/nvim-lspconfig'
 
 end)
