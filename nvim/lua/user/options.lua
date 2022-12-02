@@ -12,4 +12,6 @@ set.scrolloff = 10
 
 set.autoindent = true
 set.fileencoding = 'utf-8'
+set.complete=kspell
+set.completeopt=menuone,longest
 -- set.termguicolors = true

@@ -17,5 +17,6 @@ return require 'packer'.startup(function()
     use 'nvim-telescope/telescope.nvim'
     use 'nvim-lua/plenary.nvim'
     use 'neovim/nvim-lspconfig'
+    use 'https://github.com/vim-scripts/AutoComplPop'
 
 end)

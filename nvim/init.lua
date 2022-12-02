@@ -5,4 +5,3 @@ require "user.mappings"
 require "user.treesitter"
 require "user.filexp"
 require "user.telescope"
-
